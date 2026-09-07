@@ -110,7 +110,16 @@ This project demonstrates how **machine learning and deep learning can be used t
 
 ## 👨‍💻 Author
 
-**Nikhil**
-Aspiring AI/ML & Data Science Developer
-Linkdin : 
-Email :
+Nikhil
+
+Aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
+
+- 💼 LinkedIn:(https://www.linkedin.com/in/nikhil-kaushik-476337422?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 📧 Email: kaushnikhil@gmail.com
+- 🌐 GitHub: https://github.com/nikhil-5200
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
